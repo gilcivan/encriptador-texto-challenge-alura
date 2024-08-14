@@ -8,6 +8,6 @@
 <h2>Objetivo</h2>
 <p>Cifrar e decifrar mensagens.</p>
 <h2>Tecnologias</h2>
-<p>HTML, CSS E Javascript.</p>
+<p>HTML, CSS e Javascript.</p>
 <h2>Autor</h2>
 <p>Gilcivan Carvalho</p>
